@@ -8,4 +8,4 @@ This is first testing project for **MDAD** :grin:
 
 
 
-### ***Click here to see :eyes: :eyes: the site*** https://m7mmad-omar.github.io/fairbox.github.io/
+### ***Click here to see the site*** https://m7mmad-omar.github.io/fairbox.github.io/ :eyes: :eyes:
